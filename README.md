@@ -4,7 +4,7 @@
 - Projeto bem simples apenas para conhecer mais sobre a linguagem JavaScript
 - Espero que gostem 💜
 
-Membros :
+Membros:
   ```
 Thaylla E Kawe
   ```
